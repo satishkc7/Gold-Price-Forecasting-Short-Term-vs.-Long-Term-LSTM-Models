@@ -23,6 +23,9 @@ Visualization: Predicted gold prices closely followed the trend of actual prices
 
 <img width="1387" alt="Real_price_gold_dec_16_19" src="https://github.com/user-attachments/assets/e0058a27-366b-4cd6-8021-d89c9badf6f2" />
 picture credit: TradingView. (n.d.). TradingView — Track all markets. https://www.tradingview.com/
+
+
+
 Long-Term Model:
 Forecast Horizon: Predicting gold prices for a longer period (30-60 days).
 Performance Metrics:
