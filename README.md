@@ -19,6 +19,8 @@ Performance Metrics:
 Root Mean Squared Error (RMSE): 19.46
 Mean Absolute Percentage Error (MAPE): 0.37%
 Visualization: Predicted gold prices closely followed the trend of actual prices, demonstrating that the LSTM model effectively captured short-term fluctuations in gold prices.
+![image](https://github.com/user-attachments/assets/45af85de-e925-422c-8bc3-6be60601ab93)
+
 
 Long-Term Model:
 Forecast Horizon: Predicting gold prices for a longer period (30-60 days).
